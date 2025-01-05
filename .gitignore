@@ -11,3 +11,5 @@ examples/wsi/
 !examples/wsi/.gitkeep
 !examples/wsi/0_normal/.gitkeep
 !examples/wsi/1_tumor/.gitkeep
+
+.codegpt
