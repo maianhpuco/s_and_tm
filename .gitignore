@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*/__pycache__/ 
+
+*/.DS_Store 
+
+
+env/
+
+examples/wsi/
+!examples/wsi/.gitkeep
+!examples/wsi/0_normal/.gitkeep
+!examples/wsi/1_tumor/.gitkeep
